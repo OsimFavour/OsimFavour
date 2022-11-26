@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <hr></hr>
 
 ### 📈My Stats
-<a><img width="48%" src="https://github-readme-stats.vercel.app/api?username=OsimFavour&show_icons=true&hide_border=true&theme=radical" />&nbsp; <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddh-482&hide_border=true&theme=radical" /></a>
+<a><img width="48%" src="https://github-readme-stats.vercel.app/api?username=OsimFavour&show_icons=true&hide_border=true&theme=radical" />&nbsp; <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OsimFavour&hide_border=true&theme=radical" /></a>
 
 <hr></hr>
 
