@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫You can reach me via **famos204@gmail.com**
 
-- ⚡ Fun fact: **I love dancing**
+- ⚡ Fun fact **I love dancing**
 
 <hr></hr><h3 align="left">Languages and Tools:</h3>
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" alt="GIF" src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="490px" height="315px" /> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="490px" height="315px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif" width="490px" height="315px" />
 
 <p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj"><img align="right" src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="315" height="315px" frameBorder="0" class="giphy-embed" allowFullScreen style="max-width: 100%; display: inline-block;"></a></p>
 
