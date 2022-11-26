@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫You can reach me via **famos204@gmail.com**
 
-- ⚡ Fun fact **I love dancing**
+- ⚡ Fun fact: **I love dancing**
 
 <hr></hr><h3 align="left">Languages and Tools:</h3>
 
