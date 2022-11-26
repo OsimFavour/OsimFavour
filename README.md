@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 
 <p align="left">
     
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
@@ -65,7 +63,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"                      height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -77,7 +75,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40"                  height="40"/>
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
@@ -95,10 +93,10 @@ Here are some ideas to get you started:
 
 ### My Stats:
 
-    <a>
-        <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OsimFavour&show_icons=true&hide_border=true&theme=radical" />&nbsp; 
-        <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OsimFavour&hide_border=true&theme=radical" />
-    </a>
+<a>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OsimFavour&show_icons=true&hide_border=true&theme=radical" />&nbsp; 
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OsimFavour&hide_border=true&theme=radical" />
+</a>
 
 <hr></hr>
 
@@ -108,15 +106,15 @@ Here are some ideas to get you started:
 
 <p align="left">
     <a href="https://twitter.com/osim_favour" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"                      alt="osim_favour" height="30" width="40"/>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osim_favour" height="30" width="40"/>
     </a>
     <a href="https://linkedin.com/in/favour-osim-8b6226253" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"                alt="favour-osim-8b6226253" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="favour-osim-8b6226253" height="30" width="40" />
     </a>
     <a href="https://fb.com/favour osim" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="favour         osim" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="favour osim" height="30" width="40" />
     </a>
     <a href="https://instagram.com/issmile_favour" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"                    alt="issmile_favour" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="issmile_favour" height="30" width="40" />
     </a>
 </p>
