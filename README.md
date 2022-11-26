@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 <h3 align="left">My Stats:</h3>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OsimFavour&show_icons=true&hide_border=true&theme=radical" /><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OsimFavour&hide_border=true&theme=radical" />
 
+### 📈My Stats
+<a><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&show_icons=true&hide_border=true&theme=radical" />&nbsp; <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddh-482&hide_border=true&theme=radical" /></a>
+
 <hr></hr>
 
 <h3 align="left">Connect with me:</h3>
