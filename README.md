@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=OsimFavour&count_private=true&show_icons=true&theme=radical" > -->
 
 <h3 align="left">My Stats:</h3>
-<a><img width="48%" src="https://github-readme-stats.vercel.app/api?username=OsimFavour&show_icons=true&hide_border=true&theme=radical" />&nbsp; <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OsimFavour&hide_border=true&theme=radical" /></a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=OsimFavour&show_icons=true&hide_border=true&theme=radical" /><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OsimFavour&hide_border=true&theme=radical" />
 
 <hr></hr>
 
