@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h3 align="center">
-    A passionate python developer with a love for innovative products. Have a year of experience in freelancing where I did mostly web scraping projects
+    A passionate python developer with a love for inventiveness and innovative products. Have a year of experience in freelancing where I did mostly web scraping projects
 </h3>
 
 <hr></hr>
