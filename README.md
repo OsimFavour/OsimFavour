@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h3 align="center">
-    A passionate python developer with one year of experience in freelancing . Have a year of experience in freelancing where I did mostly web scraping projects
+    A passionate python developer with a year of experience in freelancing, during that year, I spent most of my time making web scraper engines and web crawlers that solved problems ranging from getting stock prices to best rental deals to shopify clothes store search e.t.c. That helped me hone my skills in Data Scraping, Data Extracting and Web Automation
 </h3>
 
 <hr></hr>
