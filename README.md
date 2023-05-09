@@ -26,6 +26,10 @@ Here are some ideas to get you started:
     Whether you need a web scraper engine to collect data from multiple sources, a web crawler to monitor websites for changes, or a blog website that engages your audience and drives traffic to your business, I have the skills and experience to deliver exceptional results. I am committed to delivering quality work on time and within budget, and I am always eager to take on new challenges and explore new technologies.
 </h4>
 
+<h4 align="center">
+    Whether you need a web scraper engine to collect data from multiple sources, a web crawler to monitor websites for changes, or a blog website that engages your audience and drives traffic to your business, I have the skills and experience to deliver exceptional results. I am committed to delivering quality work on time and within budget, and I am always eager to take on new challenges and explore new technologies.
+</h4>
+
 <hr></hr>
 
 - 🔭 I’m currently working on **Web aplications that help find cheap flight deals, Web crawlers as search engines, Regression algorithms for price predictions and data visualization**
