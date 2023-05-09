@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Web scraper projects for best deals, Web crawlers as search engines, Blog websites and Web automation**
 
 
-<h1>
-   🌱 Learning
-</h1>
+🌱 **Learning**
+
 - I’m currently learning **how to build web applications and integrate Machine Learning Algorithms and AI technologies into them.** Specifically, I'm focusing on:
     - **Building RESTful APIs using Django and Django Rest Framework**
     - **Creating dynamic and responsive user interfaces with HTML, CSS and Bootstrap**
