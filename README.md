@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 </h1>
 
 <h4 align="center">
-    A passionate python developer with a year of experience in freelancing, during that year, I spent most of my time making web scraper engines and web crawlers that solved problems ranging from getting stock prices to best rental deals to shopify clothes store search e.t.c. That helped me hone my skills in Data Scraping, Data Extracting and Web Automation. Getting your data manually from the web can be stressful and quite overwhelming especially when most of the data needed at the time is extensively large and massive and everything becomes convoluted, this is where I come in, I can help you extract your data and also maintain that data in the best way I can, and even host the code to help automate your daily tasks and help you on a day-to-day basis.
+    A passionate python developer with a year of experience in freelancing, during that year, I spent most of my time making web scraper engines, web crawlers and blog websites that solved problems ranging from getting stock prices to best rental deals to shopify clothes store search e.t.c. That helped me hone my skills in data scraping, data extracting/ collecting, web automation and web development. Getting your data manually from the web can be stressful and quite overwhelming especially when most of the data needed at the time is extensively large and massive and everything becomes convoluted, this is where I come in, I can help you extract your data and also maintain that data in the best way I can, and even host the code to help automate your daily tasks and help you on a day-to-day basis.
 </h4>
 
 <hr></hr>
 
-- 🔭 I’m currently working on **Web scraper projects for best deals, Web crawlers as search engines, Blog websites and Web automation**
+- 🔭 I’m currently working on **Web aplications that help find cheap flight deals, Web crawlers as search engines, Blog websites and Web automation**
 
 
 - 🌱 I’m currently learning **how to build Web applications and integrate Machine Learning Algorithms and AI technologies into them.** Specifically, I'm focusing on:
