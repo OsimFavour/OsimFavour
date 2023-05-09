@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Web scraper projects for best deals, Web crawlers as search engines, Blog websites and Web automation**
 
 - 🌱 I’m currently learning **how to build web applications and integrate Machine Learning Algorithms and AI technologies into them.** Specifically, I'm focusing on:
-    - **Python frameworks such as Flask e.t.c**
-    - **Python frameworks such as Flask e.t.c**
-    - **Python frameworks such as Flask e.t.c**
-    - **Python frameworks such as Flask e.t.c**
+    - **Building RESTful APIs using Django and Django Rest Framework**
+    - **Creating dynamic and responsive user interfaces with HTML, CSS and Bootstrap**
+    - **Implementing machine learning algorithms and models using Scikit-learn and seaborn**
+    - **Integrating natural language processing (NLP) and computer vision technologies into web applications**
 
 - 📫You can reach me via **famos204@gmail.com**
 
