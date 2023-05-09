@@ -29,7 +29,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web scraper projects for best deals, Web crawlers as search engines, Blog websites and Web automation**
 
-- 🌱 I’m currently learning **Python frameworks such as Flask e.t.c**
+- 🌱 I’m currently learning how to build web applications and integrate Machine Learning Algorithms and AI technologies into them
+    - **Python frameworks such as Flask e.t.c**
+    - **Python frameworks such as Flask e.t.c**
+    - **Python frameworks such as Flask e.t.c**
+    - **Python frameworks such as Flask e.t.c**
 
 - 📫You can reach me via **famos204@gmail.com**
 
