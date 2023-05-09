@@ -22,12 +22,15 @@ Here are some ideas to get you started:
 </h1>
 
 <h4 align="center">
-    A passionate python developer with a year of freelancing experience, I take great pride in solving complex problems and creating elegant solutions. To help me hone my skills in data scraping, data extracting and web development. I spent most of my time building web scraper engines, web crawlers and blog websites that solved problems ranging from getting stock prices to best rental deals to shopify clothes store search.  
-    Whether you need a web scraper engine to collect data from multiple sources, a web crawler to monitor websites for changes, or a blog website that engages your audience and drives traffic to your business, I have the skills and experience to deliver exceptional results. I am committed to delivering quality work on time and within budget, and I am always eager to take on new challenges and explore new technologies.
+    A passionate python developer with a year of freelancing experience, I take great pride in solving complex problems and creating elegant solutions. To help me hone my skills in data scraping, data extracting and web development. I spent most of my time building web scraper engines, web crawlers and blog websites that solved problems ranging from getting stock prices to best rental deals to shopify clothes store search.
 </h4>
 
 <h4 align="center">
     Whether you need a web scraper engine to collect data from multiple sources, a web crawler to monitor websites for changes, or a blog website that engages your audience and drives traffic to your business, I have the skills and experience to deliver exceptional results. I am committed to delivering quality work on time and within budget, and I am always eager to take on new challenges and explore new technologies.
+</h4>
+
+<h4 align="center">
+    So if you're looking for a talented and reliable Python developer to bring your vision to life, look no further. I would be honored to help you achieve your goals and create something truly great and amazing together!
 </h4>
 
 <hr></hr>
