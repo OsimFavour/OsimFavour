@@ -21,9 +21,9 @@ Here are some ideas to get you started:
     Hi 👋, I'm Osim Favour
 </h1>
 
-<h4 align="center">
+<h5 align="center">
     A passionate python developer with a year of experience in freelancing, during that year, I spent most of my time making web scraper engines and web crawlers that solved problems ranging from getting stock prices to best rental deals to shopify clothes store search e.t.c. That helped me hone my skills in Data Scraping, Data Extracting and Web Automation. Getting your data manually from the web can be stressful and quite overwhelming especially when most of the data needed at the time is extensively large and massive and everything becomes convoluted, this is where I come in, I can help you extract your data and also maintain that data in the best way I can, and even host the code to help automate your daily tasks and help you on a day-to-day basis.
-</h4>
+</h5>
 
 <hr></hr>
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     - **Implementing machine learning algorithms and models using Scikit-learn and seaborn**
     - **Integrating natural language processing (NLP) and computer vision technologies into web applications**
 
-- 📫You can reach me via **famos204@gmail.com**
+- 📫 **You can reach me via** **famos204@gmail.com**
 
 - ⚡ Fun fact: **I love dancing**
 
