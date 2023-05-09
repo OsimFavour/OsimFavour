@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <hr></hr>
 
-- 🔭 I’m currently working on **Web aplications that help find cheap flight deals, Web crawlers as search engines, Blog websites and Web automation**
+- 🔭 I’m currently working on **Web aplications that help find cheap flight deals, Web crawlers as search engines, Regression algorithms for price predictions and data visualization**
 
 
 - 🌱 I’m currently learning **how to build Web applications and integrate Machine Learning Algorithms and AI technologies into them.** Specifically, I'm focusing on:
