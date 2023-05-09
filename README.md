@@ -22,11 +22,8 @@ Here are some ideas to get you started:
 </h1>
 
 <h4 align="center">
-    A passionate python developer with a year of freelancing experience, I take great pride in solving complex problems and creating elegant solutions, during my year of freelancing, I spent most of my time making web scraper engines, web crawlers and blog websites that solved problems ranging from getting stock prices to best rental deals to shopify clothes store search e.t.c. That helped me hone my skills in data scraping, data extracting/ collecting, web automation and web development. It has always been my goal to create the greatest thing possible or even a little greater with a trust on quality and also working with smart minded people who are focused on creating sleek products that people can use and enjoy also Getting your data manually from the web can be stressful and quite overwhelming especially when most of the data needed at the time is extensively large and massive and everything becomes convoluted, this is where I come in, I can help you extract your data and also maintain that data in the best way I can, and even host the code to help automate your daily tasks and help you on a day-to-day basis.
-</h4>
-<br>
-<h4 align="center">
-    Whether you need a web scraper engine to collect data from multiple sources, a web crawler to monitor websites for changes, or a blog website that engages your audience and drives traffic to your business, I have the skills and experience to deliver exceptional results. I am committed to delivering quality work on time and within budget, and I am always eager to take on new challenges and explore new technologies..
+    A passionate python developer with a year of freelancing experience, I take great pride in solving complex problems and creating elegant solutions. To help me hone my skills in data scraping, data extracting and web development. I spent most of my time building web scraper engines, web crawlers and blog websites that solved problems ranging from getting stock prices to best rental deals to shopify clothes store search.  
+    Whether you need a web scraper engine to collect data from multiple sources, a web crawler to monitor websites for changes, or a blog website that engages your audience and drives traffic to your business, I have the skills and experience to deliver exceptional results. I am committed to delivering quality work on time and within budget, and I am always eager to take on new challenges and explore new technologies.
 </h4>
 
 <hr></hr>
