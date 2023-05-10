@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **how to build Web applications and integrate Machine Learning Algorithms and AI technologies into them.** Specifically, I'm focusing on:
     - **Building RESTful APIs using Django and Django Rest Framework**
     - **Creating dynamic and responsive user interfaces with HTML, CSS and Bootstrap**
-    - **Implementing machine learning algorithms and models using Scikit-learn and seaborn**
+    - **Implementing machine learning algorithms and models using Scikit-learn and Seaborn**
     - **Integrating natural language processing (NLP) and computer vision technologies into web applications**
 
 - 📫 **You can reach me via** **famos204@gmail.com**
