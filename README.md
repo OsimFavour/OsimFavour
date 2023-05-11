@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h4 align="center">
-    A passionate python developer with a year of freelancing experience. I take great pride in solving complex problems and creating elegant solutions. To help me hone my skills in data scraping, data extracting and web development, I spent most of my time building web scraper engines, web crawlers and blog websites that solved problems ranging from getting stock prices to best rental deals to shopify clothes store search.
+    A passionate python developer with a year of freelancing experience. I take great pride in solving complex problems and creating elegant solutions. To help me hone my skills in data scraping, data extracting web automation and web development, I spent most of my time building web scraper engines, web crawlers, bots and blog websites that solved problems ranging from getting stock prices to best rental deals to shopify clothes store search.
 </h4>
 
 <h4 align="center">
