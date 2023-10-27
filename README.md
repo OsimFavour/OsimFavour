@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-    Hi 👋, I'm Osim Favour
+    Hi 👋, I'm Osim Favour.
 </h1>
 
 <h4 align="center">
-    💻 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 with 2+ years experience helping software companies create end-to-end solutions with a focus on versatility and user experience aimed at driving a 100% increase in user retention.
+    💻 I'm a 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 with 2+ years experience helping software companies create end-to-end solutions with a focus on versatility and user experience aimed at driving a 100% increase in user retention.
 </h4>
 
 <hr></hr>
