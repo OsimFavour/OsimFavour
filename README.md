@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h4 align="center">
-    💻 I'm a 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with 2+ years experience helping software companies create end-to-end solutions with a focus on versatility and user experience aimed at driving a 100% increase in user retention.
+    💻 I'm a React Developer with 2+ years experience helping software companies create end-to-end solutions with a focus on versatility and user experience aimed at driving a 100% increase in user retention.
 </h4>
 
 <hr></hr>
