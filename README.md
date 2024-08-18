@@ -2,16 +2,12 @@
 <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=2000&pause=1000&color=F7F5EF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Osim+Favour+;Welcome+to+my+GitHub." alt="Typing SVG" /></a>
 <hr></hr>
 
-<h4 align="center">
-    💻 I'm a React Developer with 2+ years experience helping software companies create end-to-end solutions with a focus on versatility and user experience aimed at driving a 100% increase in user retention.
-</h4>
-
-<hr></hr>
-
 <div align="center">
     <h2>🚀 About Me</h2>
     <h5>I'm a Software Developer helping companies & brands build Reactive & performant enterprise level web applications using React.js.</h5>
 </div>
+
+<hr></hr>
 
 - 🔭 I’m currently working on **Stella, a real estate website which lists 2,000+ properties, resulting in significant cost savings of 30% for customers with the aim of achieving a 100% boost in customer retention.**
 
