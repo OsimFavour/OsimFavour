@@ -1,9 +1,5 @@
 <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=2000&pause=1000&color=F7F5EF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Osim+Favour+;Welcome+to+my+GitHub." alt="Typing SVG" /></a>
 
-<h1>
-    Hi 👋, I'm Osim Favour.
-</h1>
-
 <h4 align="center">
     💻 I'm a React Developer with 2+ years experience helping software companies create end-to-end solutions with a focus on versatility and user experience aimed at driving a 100% increase in user retention.
 </h4>
