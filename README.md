@@ -3,8 +3,7 @@
 <hr></hr>
 
 <div align="center">
-    <h2>🚀 About Me</h2>
-    <h5>I'm a Software Developer helping companies & brands build Reactive & performant enterprise level web applications using React.js.</h5>
+    <h4>I'm a Software Developer currently helping companies & brands build Reactive & performant enterprise level web apps using React.js.</h4>
 </div>
 
 <hr></hr>
