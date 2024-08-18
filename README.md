@@ -41,16 +41,7 @@
 </h3>
 
 <p align="left">
-    <a href="https://twitter.com/osim_favour" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osim_favour" height="30" width="40"/>
-    </a>
     <a href="https://linkedin.com/in/favour-osim-8b6226253" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="favour-osim-8b6226253" height="30" width="40" />
-    </a>
-    <a href="https://fb.com/favour osim" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="favour osim" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/issmile_favour" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="issmile_favour" height="30" width="40" />
     </a>
 </p>
