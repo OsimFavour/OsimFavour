@@ -10,7 +10,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Software Developer specializing in building Reactive & performant enterprise level web applications using React.js. I enjoy [hobbies/interests].</p>
+    <h6>I'm a Software Developer specializing in building Reactive & performant enterprise level web applications using React.js.</h6>
 </div>
 
 - 🔭 I’m currently working on **Stella, a real estate website which lists 2,000+ properties, resulting in significant cost savings of 30% for customers with the aim of achieving a 100% boost in customer retention.**
