@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=2000&pause=1000&color=F7F5EF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Osim+Favour+;Welcome+to+my+GitHub." alt="Typing SVG" /></a>
 <hr></hr>
-    <h4 align="center">I'm a Software Developer currently helping companies & brands build Reactive & performant enterprise level web apps using React.js.</h4>
+    <h4 align="center">I'm a Software Developer currently helping companies & brands build reactive & performant enterprise level web apps using React.js.</h4>
 
 <hr></hr>
 
